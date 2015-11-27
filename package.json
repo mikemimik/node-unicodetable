@@ -14,7 +14,7 @@
     "update": "node install.js",
     "test": "node test.js"}
 , "dependencies": {
-    "bufferstream": ">= 0.6.2"
+    "bufferstream": "mikemimik/node-bufferstream"
   }
 , "licenses" : [
     { "type": "MIT" ,
